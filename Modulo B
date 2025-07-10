@@ -1,0 +1,24 @@
+Aula e pergunta | resposta
+aula 5
+/*Q-01 já sabe organizar suas pastas com VSCode | sim
+/*Q-02 o node.js esta instalado no seu computador e pra que ele serve | sim, ele serve como um terminal para testar codigos em javascript
+/*Q-03 sabe diferenciar HTML5, CSS3 e JS dentro de um código | sim
+/*Q-04 sabe disparar alertas, confirmações e perguntas | sim, os alertas são o window.alert, as confirmações são o window.confirm e as perguntas são o window.prompt 
+
+aula 6
+/*Q-01 o que é uma variavel | um espaço na memoria do compútador que guarda informações
+/*Q-02 como declarar uma variavel numerica inteira ou real usando JS | usando o number.parseint antes do window.prompt
+/*Q-03 quais são os tipos primitivos do JS | string, number, boolean, null, undefined, object e function
+/*Q-04 o que siguinifica colocar o valor null dentro de uma variavel | deixar aquela variavel vazia
+
+aula 7
+/*Q-01 como é possivel guardar o valor digital em um prompt() dentro de uma variavel | var nome = window.prompt("digite seu nome")
+/*Q-02 como fazer um numero digitado em um prompt() possa ser usado em cálculos | var n1 = window.prompt("digite um numero") e repete para a proxima e faz var s = n1 + n2
+/*Q-03 como transformar um texto todo para letras MAIÚSCULAS | coloca sua variavel depois coloca .toUpperCase()
+/*Q-04 como mostrar um numero formatado como um valor monetario | n1.tolocaleString("pt-br", {style: 'currely', currely: 'BRL'})
+
+aula 8
+/*Q-01 pra que serve o simbolo de % no javascript | para descobrir o resto da divisão
+/*Q-02 6 + 4 / 2 é igual a 5 ou 8 | 8 porque primeiro faz a divisão
+/*Q-03 se uma variavel esta valendo 10 e executamos um n +=5, qual sera seu novo valor | 15 porque vai adicionar 5 ao 10
+/*Q-04 para que servem os operadores ++ e -- | pra simplifacar mais ainda a soma de um numero a variavel ex: (x = x + 1) que resumindo fica (x+=1) que resumindo fica (x++1) 
