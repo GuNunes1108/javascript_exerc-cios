@@ -1,0 +1,10 @@
+aula 9
+/*-Q01 Qual é a diferença entre =. == e === em codigos escritos em JS \ = é de declarar/receber uma variavel, == é de comparar a grandeza de valores e === é de comparar 2 valores identicos sem diferenças
+/*-Q02 Em uma mesma expresssão temos os operadores || e && quem resolve primeiro \ O primeiro que aparecer na expressão
+/*-Q03 Sabe usar um operador ternario para colocar um entre dois valores em uma variavel \ sim, var = 2 / 2 == 1 || 7 > 9 "true"
+
+aula 10
+/*-Q01 oque siguinifica a sigla DOM | Document Object model
+/*-Q02 sabe montar a arvore DOM de um website simples | sim
+/*-Q03 O que são os elementos parent e os elementos child em uma arvore DOM | o parent é quem esta acima de outro na arvore DOM e child é quem esta abaixo ex: html (parent) e body (child)
+/*-Q04 quais são os cinco principais metodos de selecionar elementos DOM dentro do JS | id, nome, marca, classe e seletor
