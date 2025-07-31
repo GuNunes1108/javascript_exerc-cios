@@ -1,0 +1,15 @@
+aula 13
+/*Q01 sabe mudar a cor de fundo de um site dinamicamente em JS | fazendo um dom tipo esse document.body.style.backgroundColor
+/*Q02 Consegue inserir uma imagem dentro do seu site sem ter a tag <img> previamente criado | eu transformo em uma variavel e uso o codigo createElement
+/*Q03 já treinou bastante o uso de condiçoes simples, compostas, alinhadas e multiplas | sim
+
+aula 14
+/*Q01 oque faço se quiser determinada atividade acontecer varias veses | faz um while
+/*Q02 sabe diferenciar as estruturas de condição e as estruturas de repetição | sim as de condiçoes são pra se algo acontecer e as repetições são pra algo se repetir até algume limite
+/*Q03 Consegue dizer a diferença entre while e do...while | a while pirmeiro executa a condição depois repete e a do while primeiro executa o codigo e depois faz a condição
+
+Exercicios
+/*Q01 já aprendeu usar o watch in chrome no vscode | sim
+/*Q02 já aprendeu usar o modo de depuração do vscode | o debug não aparece no meu vscode
+/*Q03 já fez todos os testes com as estruturas while, do while e for | sim
+/*Q04 quer aprender um pouco mais como manipular dados em controles HTML com JS | sim
